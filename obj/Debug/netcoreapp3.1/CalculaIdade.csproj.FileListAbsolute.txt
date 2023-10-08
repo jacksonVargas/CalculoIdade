@@ -1,0 +1,13 @@
+C:\Users\User\c#\CalculaIdade\bin\Debug\netcoreapp3.1\CalculaIdade.exe
+C:\Users\User\c#\CalculaIdade\bin\Debug\netcoreapp3.1\CalculaIdade.deps.json
+C:\Users\User\c#\CalculaIdade\bin\Debug\netcoreapp3.1\CalculaIdade.runtimeconfig.json
+C:\Users\User\c#\CalculaIdade\bin\Debug\netcoreapp3.1\CalculaIdade.runtimeconfig.dev.json
+C:\Users\User\c#\CalculaIdade\bin\Debug\netcoreapp3.1\CalculaIdade.dll
+C:\Users\User\c#\CalculaIdade\bin\Debug\netcoreapp3.1\CalculaIdade.pdb
+C:\Users\User\c#\CalculaIdade\obj\Debug\netcoreapp3.1\CalculaIdade.csprojAssemblyReference.cache
+C:\Users\User\c#\CalculaIdade\obj\Debug\netcoreapp3.1\CalculaIdade.AssemblyInfoInputs.cache
+C:\Users\User\c#\CalculaIdade\obj\Debug\netcoreapp3.1\CalculaIdade.AssemblyInfo.cs
+C:\Users\User\c#\CalculaIdade\obj\Debug\netcoreapp3.1\CalculaIdade.csproj.CoreCompileInputs.cache
+C:\Users\User\c#\CalculaIdade\obj\Debug\netcoreapp3.1\CalculaIdade.dll
+C:\Users\User\c#\CalculaIdade\obj\Debug\netcoreapp3.1\CalculaIdade.pdb
+C:\Users\User\c#\CalculaIdade\obj\Debug\netcoreapp3.1\CalculaIdade.genruntimeconfig.cache
